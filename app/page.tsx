@@ -127,25 +127,21 @@ export default async function HomePage() {
         />
         <hr className='w-1/2 mx-auto my-5' />
         <LinkCard
-          href={'https://forms.gle/UddLn1heR82rEGpU6'}
+          href={'https://forms.gle/ktm9tGj4ShdfnV867'}
           title={'FR recruitment form'}
         />
 
         <LinkCard
-          href={'https://forms.gle/UddLn1heR82rEGpU6'}
+          href={'https://forms.gle/5Wox4xMVvbymhbdR8'}
           title={'HR recruitment form'}
         />
         <LinkCard
-          href={'https://forms.gle/UddLn1heR82rEGpU6'}
+          href={'https://forms.gle/YRQAbzyFiB4rAh2Q7'}
           title={'PR recruitment form'}
         />
         <LinkCard
-          href={'https://forms.gle/UddLn1heR82rEGpU6'}
+          href={'https://forms.gle/Thc79MqtVjeohHW58'}
           title={'Digital Media and Design recruitment form'}
-        />
-        <LinkCard
-          href={'https://forms.gle/qWqGq5sfX8DVPNcn7'}
-          title={'Technical recruitment form'}
         />
       </div>
     </div>
