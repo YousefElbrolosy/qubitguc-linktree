@@ -119,7 +119,7 @@ export default async function HomePage() {
         />
       </div>
       <h1 className='font-bold mt-2 mb-2 text-white text-6xl'>Qubit</h1>
-      <h4 className='text-white'>Guc Quantum Computing Club</h4>
+      <h4 className='text-white'>Guc Quantum Computing Club hi</h4>
       <div className='my-8 space-y-4'>
         <LinkCard
           href={'https://www.instagram.com/qubitguc/'}
